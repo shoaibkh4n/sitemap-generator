@@ -1,0 +1,43 @@
+.xmlsitemaplinktodownloadsitemapofsite {
+  box-sizing: border-box;
+  padding: 10px 15px 10px 15px;
+  background-color: rgb(47 127 218) !important;
+  color: white !important;
+  border-radius: 5px;
+  text-decoration: none !important;
+  font-family: sans-serif !important;
+  transition: 0.3s ease;
+}
+.xmlsitemaplinktodownloadsitemapofsite:active {
+  background-color: rgb(108 156 211) !important;
+}
+.xmlsitemapcontainertodisplaycontaineronsite {
+  height: 100px;
+  position: fixed;
+  font-size: 16px;
+  top: 40px;
+  box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+  background-color: #fff;
+  border-radius: 10px;
+  right: 50px;
+  width: 300px;
+  display: grid;
+  place-items: center;
+  transition: 0.3s ease;
+  z-index: 999999999999999999999999999999999999999999999999999999999999999999999999999999;
+  animation: slide 0.8s ease-out forwards;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(-25%);
+    opacity: 0.2;
+  }
+  50% {
+    transform: translateX(5px);
+  }
+  100% {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
