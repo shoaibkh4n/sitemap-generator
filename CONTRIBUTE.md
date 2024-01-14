@@ -1,12 +1,12 @@
 # Contributing to Sitemap Generator
 
-Welcome to Sitemap Generator! We appreciate your interest in contributing. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+Welcome to Sitemap Generator! We appreciate your interest in contributing.
 
 ## Ways to Contribute
 
 1. **Report Issues:**
 
-   - Found a bug or have a feature request? [Open an issue](https://github.com/your-username/sitemap-generator/issues).
+   - Found a bug or have a feature request? [Open an issue](https://github.com/shoaibkh4n/sitemap-generator/issues).
 
 2. **Contribute Code:**
 
