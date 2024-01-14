@@ -42,14 +42,6 @@ You can customize the styling and behavior by modifying the `style.css` file.
 
 If you'd like to contribute to the project, please follow the [contribution guidelines](/CONTRIBUTE.md).
 
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-Thanks to _Open Source Project A_ for inspiration.
-
 ## Contact
 
-For any inquiries or feedback, please contact _Your Name_.
+For any inquiries or feedback, please contact / message me _https://twitter.com/thesHoaibKh4n_
